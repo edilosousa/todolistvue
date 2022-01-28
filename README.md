@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+vue create name
 ```
 
 ### Compiles and hot-reloads for development
